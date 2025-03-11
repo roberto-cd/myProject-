@@ -23,3 +23,5 @@ def calcular_pago(numero_piezas, precio_unitario):
 numero_piezas = int(input("Ingrese el número de piezas a comprar: "))
 precio_unitario = float(input("Ingrese el precio unitario de la pieza: "))
 calcular_pago(numero_piezas, precio_unitario)
+
+acabo de crear mi primer repositorio remoto
